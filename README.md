@@ -98,9 +98,12 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR HPF using Rectangular Window');
 
 ```
+## CALCULATION:
+![WhatsApp Image 2026-03-26 at 13 15 06](https://github.com/user-attachments/assets/084d25eb-0356-47b7-bd0e-a095ecb512eb)
 
 ## OUTPUT: 
 
+![WhatsApp Image 2026-03-26 at 13 16 13](https://github.com/user-attachments/assets/95ad7f76-17c6-4436-8c74-7614df819f1c)
 
 
 
@@ -152,10 +155,11 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BPF using Rectangular Window');
 ```
 ## CALCULATION:
-<img width="549" height="455" alt="image" src="https://github.com/user-attachments/assets/b8f98503-3ac2-4c95-ad8c-91e6e0397e17" />
+<img width="1600" height="1502" alt="image" src="https://github.com/user-attachments/assets/4bd797fe-a440-4df5-9c67-b7d511aeb321" />
 
 ## OUTPUT: 
-<img width="1600" height="1502" alt="image" src="https://github.com/user-attachments/assets/4bd797fe-a440-4df5-9c67-b7d511aeb321" />
+
+<img width="549" height="455" alt="image" src="https://github.com/user-attachments/assets/b8f98503-3ac2-4c95-ad8c-91e6e0397e17" />
 
 <img width="760" height="720" alt="image" src="https://github.com/user-attachments/assets/7c4b90e9-0516-4f84-8850-2622b6266d51" />
 
