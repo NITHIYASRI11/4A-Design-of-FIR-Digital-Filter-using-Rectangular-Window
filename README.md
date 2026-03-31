@@ -48,8 +48,11 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 ![WhatsApp Image 2026-03-26 at 10 14 33](https://github.com/user-attachments/assets/04e0fc8a-e2a5-40b1-a2bf-e00a8a4156c1)
 
 <img width="1600" height="500" alt="image" src="https://github.com/user-attachments/assets/f4f3a88f-32a9-48dc-9877-0e79119e4db1" />
-#@ OUTPUT: 
 
+##   OUTPUT: 
+
+
+![WhatsApp Image 2026-03-26 at 13 16 13](https://github.com/user-attachments/assets/95ad7f76-17c6-4436-8c74-7614df819f1c)
 
 ## RESULT: 
 
@@ -103,7 +106,9 @@ title('Frequency Response of FIR HPF using Rectangular Window');
 
 ## OUTPUT: 
 
-![WhatsApp Image 2026-03-26 at 13 16 13](https://github.com/user-attachments/assets/95ad7f76-17c6-4436-8c74-7614df819f1c)
+<img width="514" height="474" alt="image" src="https://github.com/user-attachments/assets/685e1d53-c15e-4b54-b483-201f29b3b096" />
+
+<img width="762" height="721" alt="image" src="https://github.com/user-attachments/assets/405858e7-05aa-4d83-82c0-22ebd370ea21" />
 
 
 
